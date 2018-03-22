@@ -1,0 +1,2 @@
+webpackJsonp([15],{EDgR:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var o=20,i=16;function d(){var e=window.innerWidth/375*o;document.documentElement.style.fontSize=e+"px",document.body.style.fontSize=i+"px",console.log("1rem = "+e+"px","1em = "+i+"px")}window.addEventListener("resize",d,!1),d(),n.default={setrem:function(e){o=e,d()},setem:function(e){i=e,d()}}}});
+//# sourceMappingURL=15.0415ffe525f8d89efc25.js.map
